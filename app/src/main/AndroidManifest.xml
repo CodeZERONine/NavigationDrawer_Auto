@@ -19,6 +19,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".BlogActivity"
+            android:label="Simple Blog"
             android:parentActivityName="com.project.navigationdrawer.MainActivity"></activity>
     </application>
 
